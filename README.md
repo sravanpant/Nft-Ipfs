@@ -12,6 +12,6 @@ Now its time for you to launch your own NFT collection and store its metadata on
 * The NFT contract should be deployed on Mumbai testnet
 * Lets start building 🚀
 
----
-### <p align="center"> Made with &#10084; <a href="https://learnweb3.io/" >LearnWeb3DAO</a> </p>
+##
+### <p align="center"> Made with &#10084; with support of <a href="https://learnweb3.io/" >LearnWeb3DAO</a> </p>
 ### <p align="center"> <a href="https://github.com/LearnWeb3DAO/Junior-Track/blob/main/IPFS-Practical.md" >Original repo</a> </p>
